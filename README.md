@@ -3,6 +3,8 @@
 
 > Helping local businesses, startups, and brands grow with high-converting organic content, short-form video scripting, and smart AI workflows.
 
+📂 **[Explore Full Case Studies & Live Deliverables → valatris-works](https://github.com/latifarxrf/valatris-works)**
+
 ---
 
 ## 🚀 What I Do
@@ -16,11 +18,13 @@
 
 ## 📂 Featured Case Studies & Works
 
-| Project / Client | Niche | Focus | Key Highlights |
+| Project / Client | Niche | Focus | Deliverables & Link |
 |---|---|---|---|
-| **Dapur Bu Tini** | F&B / Cloud Kitchen | Organic Launch & Reels | 3-Pillar Content Plan, 15s High-Retention Video Scripts |
-| **Retail & UMKM Retainer** | Local Business | Growth & Copywriting | Time-saving automated content calendar + daily captions |
-| **Tech & Academic Writing** | Tech / Education | Long-form & Whitepapers | Synthesized documentation & clear technical storytelling |
+| **Dapur Bu Tini** | F&B / Cloud Kitchen | Organic Launch & Reels | [Lihat Studi Kasus Lengkap →](https://github.com/latifarxrf/valatris-works#1-case-study-dapur-bu-tini-fb--cloud-kitchen) |
+| **Retail & UMKM Retainer** | Local Business | Growth & Copywriting | [Lihat Solusi Solo-Operator →](https://github.com/latifarxrf/valatris-works#2-framework-solusi-solo-operator--retainer-umkm) |
+| **Short-Form Video (15s)** | Reels & TikTok | High-Retention Script | [Lihat Contoh Skrip Video →](https://github.com/latifarxrf/valatris-works#3-sampel-skrip-video-pendek-high-retention-15s) |
+
+👉 **Detail lengkap seluruh studi kasus tersedia di repositori:** **[latifarxrf/valatris-works](https://github.com/latifarxrf/valatris-works)**
 
 ---
 
@@ -38,7 +42,7 @@
 - 💼 **Open for Freelance & Contract Projects** (Retainer / One-off)
 - 📍 Surabaya, Indonesia (Available for Remote Global Work)
 - 📸 **Instagram:** [@valatris.works](https://instagram.com)
-- ✉️ **Contact:** Open an issue or connect via Social Media
+- 📂 **Portfolio Hub:** [valatris-works](https://github.com/latifarxrf/valatris-works)
 
 ---
 *Powered by autonomous AI agent workflows — built with passion.*
